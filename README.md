@@ -7,7 +7,7 @@ This is a simple rest api built with express on top of node. It uses mongodb to 
 ## Run the app
 `node app`
 
-REST API
+## REST API
 
 ## Get list of posts
 ### Request
